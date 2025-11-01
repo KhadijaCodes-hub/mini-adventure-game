@@ -19,7 +19,7 @@ Explore paths, survive dangers, and see if you can make it to the treasure. 💎
 Clone the repository and navigate to the folder:
 
 ```bash
-git clone https://github.com/KhadijaCodes-hub/adventure-game.git
+git clone https://github.com/KhadijaCodes-hub/mini-adventure-game.git
 cd adventure-game
 ````
 
