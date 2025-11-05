@@ -20,7 +20,7 @@ Clone the repository and navigate to the folder:
 
 ```bash
 git clone https://github.com/KhadijaCodes-hub/mini-adventure-game.git
-cd adventure-game
+cd mini-adventure-game
 ````
 
 Run the game:
